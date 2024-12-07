@@ -1,0 +1,13 @@
+bcrypt==4.2.0
+Flask==3.1.0
+Flask-Cors==5.0.0
+Flask-SQLAlchemy==3.1.1
+gunicorn==22.0.0
+PyJWT==2.8.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+requests==2.32.3
+SQLAlchemy==2.0.36
+Werkzeug==3.0.3; python_version > '3.6'
+sqlparse==0.2.4
